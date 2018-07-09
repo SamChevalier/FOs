@@ -1,7 +1,7 @@
 # FOs
 Simulation and Bayesian analysis of two power systems experiencing FOs. There are three files in the main directory.
 
-1) "Optimization Functions" - This folder contains the global function which are called in each FO experiment. These functions in this folder must be globally accessible.
+1) "Optimization Functions" - This folder contains the global functions which are called in each FO experiment. The functions in this folder must be globally accessible.
 
 2) "179-Bus Power System" - This folder contains the experiment related to the multiple FOs which are applied to the WECC 179-bus power system.
 
